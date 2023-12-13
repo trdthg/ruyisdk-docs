@@ -77,7 +77,7 @@ export default defineConfig({
       },
     }
   },
-  base: '/docs/',
+  base: '/ruyisdk-docs/',
   themeConfig: {
     i18nRouting: true,
     search: {
