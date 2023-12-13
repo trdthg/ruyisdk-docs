@@ -64,7 +64,7 @@ export default defineConfig({
       },
     }
   },
-  base: '/docs/',
+  base: '/ruyisdk-docs/',
   themeConfig: {
     i18nRouting: true,
     // https://vitepress.dev/reference/default-theme-config
