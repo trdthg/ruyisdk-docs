@@ -1,4 +1,0 @@
-files:
-  - source: /zh/**/*.html
-    translation: /en/%original_path%/%original_file_name%
-    multilingual: 1
